@@ -33,9 +33,28 @@ Focuses on analyzing a given shopping trends dataset and answer the few basic qu
 ## Data Description
 The dataset used in this project includes the following columns:
 
-| Column name  | Description |
-|--------------|-------------|
-Column name    | Description
+| Column name  | Description                        |
+|--------------|------------------------------------|
+|Customer ID   | Unique identifier for each customer|
+|Age           |  Age of the Customer               |
+|Gender        |  Gender of the Customer            |
+|ItemPurchased |  Name of the item purchased        |
+|Category      |  Product Category                  |
+
+## Analysis
+ The script perfomrs the following analyses:
+ > Filtering data
+ > Demography related questions
+ > Visualizing data using Matplotlib
+
+## Visualizations
+# Purchase by Gender
+<img width="606" alt="image" src="https://github.com/user-attachments/assets/77621a55-9bff-4fbf-ba51-382e65be05e6" />
+
+# Seasonal customer spending
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/40431b9e-48d4-40b3-aca0-61bbddfeb663" />
+
+
 
 
      
