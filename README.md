@@ -30,6 +30,10 @@ Focuses on analyzing a given shopping trends dataset and answer the few basic qu
 
 > Notes:If the file path is different update the file_path variable in the script to point to the correct location.
 
+## Data Description
+The dataset used in this project includes the following columns:
+---------------|--------------
+Column name    | Description
 
 
      
