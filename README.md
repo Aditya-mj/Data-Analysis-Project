@@ -32,7 +32,9 @@ Focuses on analyzing a given shopping trends dataset and answer the few basic qu
 
 ## Data Description
 The dataset used in this project includes the following columns:
----------------|--------------
+
+| Column name  | Description |
+|--------------|-------------|
 Column name    | Description
 
 
